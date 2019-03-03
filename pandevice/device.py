@@ -111,6 +111,8 @@ class Vsys(VersionedPanObject):
         "objects.ApplicationGroup",
         "objects.ApplicationFilter",
         "objects.SecurityProfileGroup",
+        "objects.SecurityProfileUrlFiltering",
+        "objects.CustomUrlCategory",
         "policies.Rulebase",
         "network.EthernetInterface",
         "network.AggregateInterface",
